@@ -7,7 +7,7 @@
 # Date : 21/4/2026
 # Aim:
 To build a C program that prints integer, float,character, and string literals on the console using the printf() function.
-# Algorithm:
+# Algorithm: 
 ### Step 1:
   Start
 ### Step 2: 
